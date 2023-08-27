@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-nahian&label=Profile%20views&color=0e75b6&style=flat" alt="al-nahian" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al-nahian" alt="al-nahian" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/dracula_nahian" target="blank"><img src="https://img.shields.io/twitter/follow/dracula_nahian?logo=twitter&style=for-the-badge" alt="dracula_nahian" /></a> </p>
 
 - 🔭 I’m currently working on [StoreEase - a PHP project](https://github.com/Al-Nahian/StoreEase)
