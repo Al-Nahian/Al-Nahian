@@ -6,7 +6,7 @@
 
 Turning customer and business data into decisions — and increasingly, into working software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazme-al-nahian/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAYFBMVEUBdbT8%2Ff4AAAAAcrEAf78Aa64%2BlcREmMaCutkAXqYhhbyv0%2BYAVaoAcrAAf393tNbP5PBYo8yPwtynzuRlqtCYxuAA%2F%2F8yjsEeg7sAAP8AAAAAAAAAAAAAAAAAAAAAAAD1IckOAAAAIHRSTlP%2B%2FwDABP7%2F%2F%2F%2F%2F%2F%2F8DYQP%2F%2F%2F%2F%2F%2F%2F%2F%2FAf%2F%2FAQAAAAAAAJmmY7wAAADqSURBVHja1dTZEoMgDAVQiEYoqLh1%2B%2F8fbYCidiHSx94ZFZ3jgBojAKCtmbQEBBREQH%2FvKiYdXEC00Ak2HbSihyqMETOogl7UEaExmEN1QrOU8wFCKykWOYRGhnyd8SdUNB2FlD16Ov%2BWaEOf9ex9OqOd0waVdnpEMU52PrvnCjek%2FJrUafIrM0N8DLngK2oi0rRPxF%2FAHNrFsmgYtheXQRPdHxYpmywKk%2BCZR2NAC4%2BuAY08ugWkeBSrufkPpD6QSl94V5kNhcoqHGLScIdSSeJakWnoUfrNs%2FG%2FeVHDoM5y0Hr60iZW0A4fGWcNYXMJT9AAAAAASUVORK5CYII%3D)](https://www.linkedin.com/in/nazme-al-nahian/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazmealnahian@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Al-Nahian)
 
@@ -19,11 +19,9 @@ Turning customer and business data into decisions — and increasingly, into wor
 I am an **Analytics & CRM Specialist at Shohoz**, Bangladesh’s premier ride-hailing, ticketing, and logistics super-app, where I leverage customer data and custom tooling to optimize campaign performance and drive retention. Passionate about automation, I also build independent engineering projects to assist my day-to-day analysis tasks—such as data scrapers, dashboards, and micro-SaaS products—focused on converting complex, manual workflows into efficient, self-serve solutions.
 
 - 🔭 Currently building **Nuvio**, a B2B SaaS platform — details to follow as it develops
-- 📊 Day job: customer analytics, CRM campaigns, and reporting infrastructure at Shohoz
-- 🤖 My side projects are **vibe-coded** — built by directing AI coding tools (Claude, Lovable,
-  Antigravity, OpenCode, OpenRouter) rather than from deep hands-on expertise in each stack. My
-  core skill is the analytics/CRM side: knowing what to build and why; the AI tools handle the how
-- 📫 Reach me at **nazmealnahian@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/nazme-al-nahian/)
+- 📊 Day-to-day job — optimizing campaign performance, user retention, and the data tooling that accelerates decision-making. I also shape our broader business strategy through rigorous competition and pricing analysis, commission modeling, and comprehensive sales forecasting.
+- 🤖 Side projects — developed through an **AI-accelerated workflow**, utilizing tools like Claude, Lovable, Antigravity, OpenCode, and OpenRouter for technical execution. Rather than focusing on manual coding across multiple tech stacks, I operate as the product architect. My core expertise lies in Analytics and CRM—identifying strategic business problems and defining the "what" and "why"—while leveraging AI to efficiently handle the "how."
+- 📫 Reach me at — **nazmealnahian@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/nazme-al-nahian/)
 
 ---
 
