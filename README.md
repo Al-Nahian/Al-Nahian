@@ -117,7 +117,7 @@ bKash, Nagad, and Rocket, and optional cloud backup/sync.
   nothing raw ever stored or transmitted, entirely opt-in and off by default
 - Biometric/PIN app lock, light/dark theme, CSV import/export
 - **Stack:** Kotlin, Jetpack Compose, Room, Hilt, WorkManager, Supabase
-- 📦 [Latest release](https://github.com/Al-Nahian/wallet/releases/latest) · [Repo](https://github.com/Al-Nahian/wallet) · [Privacy Policy](https://al-nahian.github.io/wallet/privacy.html)
+- 📦 [Latest release](https://github.com/Al-Nahian/wallet-releases/releases/latest) · [Privacy Policy](https://al-nahian.github.io/wallet-releases/privacy.html)
 
 ---
 
