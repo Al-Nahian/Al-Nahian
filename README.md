@@ -75,8 +75,8 @@ I am an **Analytics & CRM Specialist at Shohoz**, Bangladesh’s premier ride-ha
 
 ## 🚀 Featured Projects
 
-*All three built by vibe-coding with Claude / Lovable / Antigravity + OpenCode — I drove the
-product decisions and requirements; the AI tools wrote the implementation.*
+*Built through an AI-accelerated workflow (Claude, Lovable, Antigravity, OpenCode) — I drove the
+product decisions and requirements; the AI tools wrote the implementation, except where noted.*
 
 ### 🧩 Nuvio
 *In development*
@@ -85,6 +85,39 @@ A B2B SaaS platform, currently under active development. Full details will be sh
 product is further along.
 
 
+
+---
+
+### 🏢 SafeNest Properties Ltd. — Website
+*Paid client project — built with a contributor, not my sole codebase*
+
+A real estate marketing site for a Dhaka-based property developer, built around project/listing
+pages and a "Land Share" fractional-investment model, with lead-generation forms for site visits
+and inquiries.
+
+- Animated landing and project pages — parallax hero section, hover micro-interactions, and a
+  construction-progress tracker — built with Framer Motion
+- Lead-capture forms (site-visit booking, land-share inquiry) wired to email via Nodemailer
+- **Stack:** Next.js (App Router), React, TypeScript, Tailwind CSS
+- 🌐 [safenestpropertiesltd.com](https://safenestpropertiesltd.com) · [Repo](https://github.com/Al-Nahian/Safenest-Properties-LTD)
+
+---
+
+### 💰 Wallet
+*Personal project*
+
+A local-first personal finance tracker for Android — accounts, transactions, budgets, recurring
+payments, debt tracking, and savings goals, with optional on-device SMS/notification capture for
+bKash, Nagad, and Rocket, and optional cloud backup/sync.
+
+- Local-first by design: works fully offline with Room/SQLite as the source of truth; Supabase is
+  an optional sync layer (Postgres + Row Level Security, outbox-based push/pull sync with
+  conflict detection)
+- On-device transaction capture from SMS and notifications — parsed and discarded in memory,
+  nothing raw ever stored or transmitted, entirely opt-in and off by default
+- Biometric/PIN app lock, light/dark theme, CSV import/export
+- **Stack:** Kotlin, Jetpack Compose, Room, Hilt, WorkManager, Supabase
+- 📦 [Latest release](https://github.com/Al-Nahian/wallet/releases/latest) · [Repo](https://github.com/Al-Nahian/wallet) · [Privacy Policy](https://al-nahian.github.io/wallet/privacy.html)
 
 ---
 
