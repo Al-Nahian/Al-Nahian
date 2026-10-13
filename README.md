@@ -99,7 +99,7 @@ and inquiries.
   construction-progress tracker — built with Framer Motion
 - Lead-capture forms (site-visit booking, land-share inquiry) wired to email via Nodemailer
 - **Stack:** Next.js (App Router), React, TypeScript, Tailwind CSS
-- 🌐 [safenestpropertiesltd.com](https://safenestpropertiesltd.com) · [Repo](https://github.com/Al-Nahian/Safenest-Properties-LTD)
+- 🌐 [safenestpropertiesltd.com](https://safenestpropertiesltd.com) ·
 
 ---
 
